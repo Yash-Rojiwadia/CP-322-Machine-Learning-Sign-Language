@@ -1,4 +1,11 @@
 # Optical Character Recognition using Machine Learning
+
+### Group Members
+
+- Yash Rojiwadia - 203039360
+- Obi Ihejirika - 190970850
+- Anshul Khatri - 193313680
+
 ## Objective
 The objective of this project is to develop an Optical Character Recognition (OCR) system capable of recognizing handwritten characters in images. The ability to convert real-world text and handwriting into digital text has numerous applications, such as automated document processing and text recognition in images. However, recognizing text in images is a challenging task due to variations in fonts, sizes, colors, and distortions.
 
@@ -16,9 +23,3 @@ We utilized machine learning algorithms and image pre-processing techniques to t
 
 ## Results
 Our OCR model achieved a prediction accuracy of 94.26% on the MNIST test set, which is a promising result for recognizing handwritten digits. We believe that with further optimization and fine-tuning of the model, we can improve the accuracy and extend our OCR system to recognize other characters and handwriting styles.
-
-Group Members
-
-- Yash Rojiwadia - 203039360
-- Obi Ihejirika - 190970850
-- Anshul Khatri - 193313680
